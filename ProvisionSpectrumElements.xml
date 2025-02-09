@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DMSScript options="272" xmlns="http://www.skyline.be/automation">
+	<Name>ProvisionSpectrumElements</Name>
+	<Description>This automation script is designed to provision spectrum monitoring elements for existing CCAP devices in a DataMiner system.</Description>
+	<Type>Automation</Type>
+	<Author>SNA</Author>
+	<CheckSets>FALSE</CheckSets>
+	<Folder>EPM TOOLS</Folder>
+
+	<Protocols>
+	</Protocols>
+
+	<Memory>
+	</Memory>
+
+	<Parameters>
+	</Parameters>
+
+	<Script>
+		<Exe id="1" type="csharp">
+			<Value><![CDATA[[Project:ProvisionSpectrumElements_1]]]></Value>
+			<!--<Param type="debug">true</Param>-->
+			<Message></Message>
+		</Exe>
+	</Script>
+</DMSScript>
