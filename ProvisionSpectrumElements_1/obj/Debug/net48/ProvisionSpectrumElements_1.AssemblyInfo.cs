@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProvisionSpectrumElements_1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b81318eb5e8c733cab500f20350f5b3f7c2c80b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fb864e129fe8021985dedd9931e35f6a1ad9eac")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProvisionSpectrumElements_1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProvisionSpectrumElements_1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
