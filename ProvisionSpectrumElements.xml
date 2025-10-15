@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <DMSScript options="272" xmlns="http://www.skyline.be/automation">
-	<Name>ProvisionSpectrumElements</Name>
-	<Description>This automation script is designed to provision spectrum monitoring elements for existing CCAP devices in a DataMiner system.</Description>
+	<Name>SLC-AS-EPM_I_DOCSIS_ProvisionSpectrumElements</Name>
+	<Description><![CDATA[This script provisions spectrum elements for existing CCAP devices in a DataMiner system (using the connector Cisco CBR-8 CCAP UTSC).]]></Description>
 	<Type>Automation</Type>
 	<Author>SNA</Author>
 	<CheckSets>FALSE</CheckSets>
-	<Folder>EPM TOOLS</Folder>
+	<Folder><![CDATA[I-DOCSIS/PROVISIONING]]></Folder>
 
 	<Protocols>
 	</Protocols>
